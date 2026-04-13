@@ -1,0 +1,11 @@
+# software paths
+CDHIT=/path/cd-hit
+TOXINPRED=/path/toxinpred3
+
+# parameters
+CDHIT_C=0.75
+CDHIT_N=5
+CPU=1
+
+TOXIN_THRESHOLD=0.38
+

@@ -1,0 +1,6 @@
+# 控制输出;
+-nstruct 1                      # 生成模型数量
+
+# 控制采样
+-relax:default_repeats 5           # 控制外部循环次数，默认为5，可以设置为15个循环，能量面的搜索更加彻底。
+-score:weights ref2015             # 设置使用的打分函数/双空间时 使用ref2015_cart

@@ -1,0 +1,9 @@
+# alphafold-related parameters
+DB_DIR=/path/alphafold_database
+MODEL_DIR=/path/alphafold_model
+PROTEIN_ID=protein_id
+INPUT_DIR=/path/alphafold_input_dir
+
+# rosetta=related
+ROSETTA_SCRITPS=path/rosetta_scripts
+ROSETTA_DIR=/path/rosetta_results

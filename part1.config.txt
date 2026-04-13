@@ -1,0 +1,10 @@
+# software paths
+PROKKA=/path/prokka_no_gbk
+HMMSEARCH=/path/hmmsearch
+MAFFT=/path/mafft
+
+# database
+HMM_DB=/AgrD/TIGR04223.1.HMM
+
+# parameters
+CPU=4
